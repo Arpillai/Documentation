@@ -20,12 +20,13 @@ Senior technical writer with experience in all phases of content development fro
 
 **Samples**
 - [FAST DS](https://github.com/Arpillai/Documentation/blob/master/writing_sample_FAST%20DS%20Overview%20%20%20Fabric%20Documentation%20(1).pdf}
-- [High Availability]()
-- [HybridUI DB]()
-- [QoS EE]()
-- [RingCentral Softphone]()
-- [USB Exemption]()
-- [User Account and Authorization]()
-- [Switch Module]()
+- [High Availability](https://github.com/Arpillai/Documentation/blob/master/writing_sample_HA_Archana_Pillai.pdf)
+- [HybridUI DB](https://github.com/Arpillai/Documentation/blob/master/writing_sample_HybridUI_DB_User_Guide.pdf)
+- [QoS EE](https://github.com/Arpillai/Documentation/blob/master/writing_sample_QoS_ee_guide.pdf)
+- [RingCentral Softphone](https://github.com/Arpillai/Documentation/blob/master/writing_sample_RingCentral%20Softphone%20%E2%80%93%20Headset%20Guide.docx.pdf)
+- [USB Exemption](https://github.com/Arpillai/Documentation/blob/master/writing_sample_USB%20Exemption%20%20%20Fabric%20Documentation.pdf)
+- [User Account and Authorization](https://github.com/Arpillai/Documentation/blob/master/writing_sample_User_Account_and_Authentication_Service.pdf)
+- [Switch Module](https://github.com/Arpillai/Documentation/blob/master/writing_sample_switch_module_Archana_Pillai.pdf)
+
 
 If you are wondering how to pronounce my name, click [here](http://www.pronouncenames.com/pronounce/Archana}
