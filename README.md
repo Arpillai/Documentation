@@ -18,5 +18,14 @@ Senior technical writer with experience in all phases of content development fro
 
 [Skills and Authoring Tools](https://www.linkedin.com/in/pillaiarchana/details/skills/)
 
-If you are wondering how to pronounce my name, click [here](http://www.pronouncenames.com/pronounce/Archana)
+**Samples**
+- [FAST DS](https://github.com/Arpillai/Documentation/blob/master/writing_sample_FAST%20DS%20Overview%20%20%20Fabric%20Documentation%20(1).pdf}
+- [High Availability]()
+- [HybridUI DB]()
+- [QoS EE]()
+- [RingCentral Softphone]()
+- [USB Exemption]()
+- [User Account and Authorization]()
+- [Switch Module]()
 
+If you are wondering how to pronounce my name, click [here](http://www.pronouncenames.com/pronounce/Archana}
