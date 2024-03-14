@@ -19,7 +19,7 @@ Senior technical writer with experience in all phases of content development fro
 [Skills and Authoring Tools](https://www.linkedin.com/in/pillaiarchana/details/skills/)
 
 **Samples**
-- [FAST DS](https://github.com/Arpillai/Documentation/blob/master/writing_sample_FAST%20DS%20Overview%20%20%20Fabric%20Documentation%20(1).pdf}
+- [FAST DS](https://github.com/Arpillai/Documentation/blob/master/writing_sample_FAST%20DS%20Overview%20%20%20Fabric%20Documentation%20(1).pdf)
 - [High Availability](https://github.com/Arpillai/Documentation/blob/master/writing_sample_HA_Archana_Pillai.pdf)
 - [HybridUI DB](https://github.com/Arpillai/Documentation/blob/master/writing_sample_HybridUI_DB_User_Guide.pdf)
 - [QoS EE](https://github.com/Arpillai/Documentation/blob/master/writing_sample_QoS_ee_guide.pdf)
@@ -29,4 +29,4 @@ Senior technical writer with experience in all phases of content development fro
 - [Switch Module](https://github.com/Arpillai/Documentation/blob/master/writing_sample_switch_module_Archana_Pillai.pdf)
 
 
-If you are wondering how to pronounce my name, click [here](http://www.pronouncenames.com/pronounce/Archana}
+If you are wondering how to pronounce my name, click [here](http://www.pronouncenames.com/pronounce/Archana)
