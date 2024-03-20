@@ -31,8 +31,9 @@ Senior technical writer with experience in all phases of content development fro
 - [Vocera Platform Dataset Guide](https://pubs.vocera.com/platform/aca/6.5.0/help/aca_dataset_help/index.html#platform/aca/6.5.0/topics/eng_dataset_attributes_understand.html)
 
 **Planning and Content Architecture Samples**
- - [DocPlan - VP](https://github.com/Arpillai/Documentation/blob/master/VP6.5.0DocPlan-191121-1754.pdf)
+ - [DocPlan VP](https://github.com/Arpillai/Documentation/blob/master/VP6.5.0DocPlan-191121-1754.pdf)
  - [DocPlan ED](https://github.com/Arpillai/Documentation/blob/master/Event_DeliveryFlow_DocPlan.pdf)
- - []()
+ - [Feature Tracking slides](https://github.com/Arpillai/Documentation/blob/master/cross_platform_feature_tracking.pdf)
+ - 
 
 If you are wondering how to pronounce my name, click [here](http://www.pronouncenames.com/pronounce/Archana)
