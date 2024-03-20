@@ -27,6 +27,7 @@ Senior technical writer with experience in all phases of content development fro
 - [USB Exemption](https://github.com/Arpillai/Documentation/blob/master/writing_sample_USB%20Exemption%20%20%20Fabric%20Documentation.pdf)
 - [User Account and Authorization](https://github.com/Arpillai/Documentation/blob/master/writing_sample_User_Account_and_Authentication_Service.pdf)
 - [Switch Module](https://github.com/Arpillai/Documentation/blob/master/writing_sample_switch_module_Archana_Pillai.pdf)
-
+- [Vocera Platform Administrators Guide](https://pubs.vocera.com/platform/aca/6.5.0/help/aca_admin_help/index.html#platform/aca/6.5.0/topics/aca_admin_part_getting_started.html)
+- [Vocera Platform Dataset Guide](https://pubs.vocera.com/platform/aca/6.5.0/help/aca_dataset_help/index.html#platform/aca/6.5.0/topics/eng_dataset_attributes_understand.html)
 
 If you are wondering how to pronounce my name, click [here](http://www.pronouncenames.com/pronounce/Archana)
