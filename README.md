@@ -34,6 +34,6 @@ Senior technical writer with experience in all phases of content development fro
  - [DocPlan VP](https://github.com/Arpillai/Documentation/blob/master/VP6.5.0DocPlan-191121-1754.pdf)
  - [DocPlan ED](https://github.com/Arpillai/Documentation/blob/master/Event_DeliveryFlow_DocPlan.pdf)
  - [Feature Tracking slides](https://github.com/Arpillai/Documentation/blob/master/cross_platform_feature_tracking.pdf)
- - 
+ - [Content Modeling]()
 
 If you are wondering how to pronounce my name, click [here](http://www.pronouncenames.com/pronounce/Archana)
