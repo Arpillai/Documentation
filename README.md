@@ -24,7 +24,7 @@ Senior technical writer with experience in all phases of content development fro
 - [High Availability](https://github.com/Arpillai/Documentation/blob/master/writing_sample_HA_Archana_Pillai.pdf)
 - [HybridUI DB](https://github.com/Arpillai/Documentation/blob/master/writing_sample_HybridUI_DB_User_Guide.pdf)
 - [QoS EE](https://github.com/Arpillai/Documentation/blob/master/writing_sample_QoS_ee_guide.pdf)
-- [Requesting Storage](https://github.com/Arpillai/Documentation/blob/master/writing_sample_RingCentral%20Softphone%20%E2%80%93%20Headset%20Guide.docx.pdf)
+- [Requesting Storage](https://github.com/Arpillai/Documentation/blob/master/containerplatform.pdf)
 - [Requesting Storage](https://github.com/Arpillai/Documentation/blob/master/writing_sample_RingCentral%20Softphone%20%E2%80%93%20Headset%20Guide.docx.pdf)
 - [Requesting Storage](https://github.com/Arpillai/Documentation/blob/master/writing_sample_RingCentral%20Softphone%20%E2%80%93%20Headset%20Guide.docx.pdf)
 - [RingCentral Softphone](https://github.com/Arpillai/Documentation/blob/master/writing_sample_RingCentral%20Softphone%20%E2%80%93%20Headset%20Guide.docx.pdf)
