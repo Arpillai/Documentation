@@ -13,7 +13,7 @@ Senior technical writer with experience in all phases of content development fro
 **Specialities**: Writing Software Configuration Guides, Software Administrator's Guides, Quick Reference Guides, Hardware Installation Guides, CLIs Configuration Guides, MIBs Specifications Guides, Command References, and Release Notes.
 
 
-[Lincense and credentials]([https://www.linkedin.com/in/pillaiarchana/details/certifications/](https://www.linkedin.com/authwall?trk=qf&original_referer=https://www.linkedin.com/in/pillaiarchana/details/certifications/?_l=en_US&sessionRedirect=https://www.linkedin.com/in/pillaiarchana/details/certifications/?_l=en_US&original_referer=)
+[Lincense and credentials](https://www.linkedin.com/authwall?trk=qf&original_referer=https://www.linkedin.com/in/pillaiarchana/details/certifications/?_l=en_US&sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fin)
 
 
 [Skills and Authoring Tools](https://www.linkedin.com/in/pillaiarchana/details/skills/)
