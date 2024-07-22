@@ -14,7 +14,7 @@ Senior technical writer with experience in all phases of content development fro
 
 > :bulb: **Tip:** You may want to login to your LinkedIn account to view my credentials and skills.
 
-[Certificates and Credentials](https://www.linkedin.com/authwall?trk=qf&original_referer=https://www.linkedin.com/in/pillaiarchana/details/certifications/?_l=en_US&sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fin)
+[Certificates and Credentials](https://www.linkedin.com/authwall?trk=qf&original_referer=https://www.linkedin.com/in/pillaiarchana/details/certifications/?_l=en_US&sessionRedirect=https://www.linkedin.com/in/pillaiarchana/details/certifications/?_l=en_US%26original_referer%3D)
 
 
 [Skills and Authoring Tools](https://www.linkedin.com/authwall?trk=qf&original_referer=https://www.linkedin.com/in/pillaiarchana/details/skills/)
