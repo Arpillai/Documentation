@@ -17,7 +17,7 @@ Senior technical writer with experience in all phases of content development fro
 [Certificates and Credentials](https://www.linkedin.com/authwall?trk=qf&original_referer=https://www.linkedin.com/in/pillaiarchana/details/certifications/?_l=en_US&sessionRedirect=https://www.linkedin.com/in/pillaiarchana/details/certifications/?_l=en_US%26original_referer%3D)
 
 
-[Skills and Authoring Tools](https://www.linkedin.com/authwall?trk=qf&original_referer=https://www.linkedin.com/in/pillaiarchana/details/skills/)
+[Skills and Authoring Tools](https://www.linkedin.com/authwall?trk=qf&original_referer=https://www.linkedin.com/in/pillaiarchana/details/skills/?_l=en_US&sessionRedirect=https://www.linkedin.com/in/pillaiarchana/details/skills/?_l=en_US%26original_referer%3D)
 
 **Samples**
 <!--- [Azure Recomendations](https://github.com/Arpillai/Documentation/blob/master/azure_azure_guide.pdf)-->
