@@ -12,11 +12,12 @@ Senior technical writer with experience in all phases of content development fro
 
 **Specialities**: Writing Software Configuration Guides, Software Administrator's Guides, Quick Reference Guides, Hardware Installation Guides, CLIs Configuration Guides, MIBs Specifications Guides, Command References, and Release Notes.
 
+> :bulb: **Tip:** You may want to login to your LinkedIn account to view my credentials and skills.
 
-[Lincense and credentials](https://www.linkedin.com/authwall?trk=qf&original_referer=https://www.linkedin.com/in/pillaiarchana/details/certifications/?_l=en_US&sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fin)
+[Certificates and Credentials](https://www.linkedin.com/authwall?trk=qf&original_referer=https://www.linkedin.com/in/pillaiarchana/details/certifications/?_l=en_US&sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fin)
 
 
-[Skills and Authoring Tools](https://www.linkedin.com/in/pillaiarchana/details/skills/)
+[Skills and Authoring Tools](https://www.linkedin.com/authwall?trk=qf&original_referer=https://www.linkedin.com/in/pillaiarchana/details/skills/)
 
 **Samples**
 <!--- [Azure Recomendations](https://github.com/Arpillai/Documentation/blob/master/azure_azure_guide.pdf)-->
@@ -41,4 +42,4 @@ Senior technical writer with experience in all phases of content development fro
  - [Feature Tracking slides](https://github.com/Arpillai/Documentation/blob/master/cross_platform_feature_tracking.pdf)
  - [Content Modeling](https://github.com/Arpillai/Documentation/blob/master/Content_Modeling_Pubs-Meeting-slides.pdf)
 
-If you are wondering how to pronounce my name, click [here](http://www.pronouncenames.com/pronounce/Archana)
+> :bulb: **Tip:** If you are wondering how to pronounce my name, click [here](http://www.pronouncenames.com/pronounce/Archana)
