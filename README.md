@@ -13,7 +13,7 @@ Senior technical writer with experience in all phases of content development fro
 **Specialities**: Writing Software Configuration Guides, Software Administrator's Guides, Quick Reference Guides, Hardware Installation Guides, CLIs Configuration Guides, MIBs Specifications Guides, Command References, and Release Notes.
 
 
-[Lincense and credentials](https://pubs.vocera.com/platform/aca/6.5.0/help/aca_admin_help/index.html#platform/aca/6.5.0/topics/aca_auditlog_accessing.html)
+[Lincense and credentials](https://www.linkedin.com/in/pillaiarchana/details/certifications/)
 
 
 [Skills and Authoring Tools](https://www.linkedin.com/in/pillaiarchana/details/skills/)
