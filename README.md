@@ -20,7 +20,7 @@ Senior technical writer with experience in all phases of content development fro
 [Skills and Authoring Tools](https://www.linkedin.com/authwall?trk=qf&original_referer=https://www.linkedin.com/in/pillaiarchana/details/skills/?_l=en_US&sessionRedirect=https://www.linkedin.com/in/pillaiarchana/details/skills/?_l=en_US%26original_referer%3D)
 
 **Samples**
-<!--- [Azure Recomendations](https://github.com/Arpillai/Documentation/blob/master/azure_azure_guide.pdf)-->
+
 - [FAST DS](https://github.com/Arpillai/Documentation/blob/master/writing_sample_FAST%20DS%20Overview%20%20%20Fabric%20Documentation%20(1).pdf)
 - [High Availability](https://github.com/Arpillai/Documentation/blob/master/writing_sample_HA_Archana_Pillai.pdf)
 - [HybridUI DB](https://github.com/Arpillai/Documentation/blob/master/writing_sample_HybridUI_DB_User_Guide.pdf)
@@ -34,6 +34,7 @@ Senior technical writer with experience in all phases of content development fro
 - [Switch Module](https://github.com/Arpillai/Documentation/blob/master/writing_sample_switch_module_Archana_Pillai.pdf)
 - [Vocera Platform Administrators Guide](https://pubs.vocera.com/platform/aca/6.5.0/help/aca_admin_help/index.html#platform/aca/6.5.0/topics/aca_admin_part_getting_started.html)
 - [Vocera Platform Dataset Guide](https://pubs.vocera.com/platform/aca/6.5.0/help/aca_dataset_help/index.html#platform/aca/6.5.0/topics/eng_dataset_attributes_understand.html)
+- <!--- [Azure Recomendations](https://github.com/Arpillai/Documentation/blob/master/azure_azure_guide.pdf)-->
 
 
 **Planning and Content Architecture Samples**
